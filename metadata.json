@@ -1,0 +1,8 @@
+{
+  "name": "教室管理系統_示範",
+  "description": "純示範",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
